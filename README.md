@@ -37,8 +37,4 @@ Return the calculated distance.
 
 
 ### RESULT:
-Hence the distance between two points are found by executing the python code.
-
-
-### RESULT:
-Thus the distance between two points found successfully.
+Thus the distance between two points found successfully by executing the python code.
